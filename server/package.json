@@ -1,5 +1,5 @@
 {
-  "name": "codelog.nodejs.chatserver.server",
+  "name": "codelog.nodejs.chatroom.server",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",

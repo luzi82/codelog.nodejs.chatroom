@@ -1,5 +1,5 @@
 {
-  "name": "codelog-nodejs-chatserver-client",
+  "name": "codelog-nodejs-chatroom-client",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",

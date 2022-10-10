@@ -1,4 +1,4 @@
-# codelog-nodejs-chatserver-client
+# codelog-nodejs-chatroom-client
 
 This template should help get you started developing with Vue 3 in Vite.
 
