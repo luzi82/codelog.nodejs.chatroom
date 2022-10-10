@@ -1,1 +1,11 @@
 npm install -g npm@latest
+
+===
+
+cd server
+node install
+node start
+
+cd client
+node install
+node run dev
